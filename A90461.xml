@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect declaration of all the promises and protestations made unto the Kings Majestie by the Parliament; by way of accommodation of peace. Wherein the Parliament have made knowne to the world, their owne ends and intentions; and offered to His Majestie all that a treaty can produce, or His Majestie expect: security, honour, service, obedience, support, and all other effects of an humble, loyall, and faithfull subjection.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90461</idno>
+            <idno type="STC">Wing P1482</idno>
+            <idno type="STC">Thomason E249_1</idno>
+            <idno type="STC">ESTC R212562</idno>
+            <idno type="EEBO-CITATION">99871166</idno>
+            <idno type="PROQUEST">99871166</idno>
+            <idno type="VID">159034</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90461)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159034)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 43:E249[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect declaration of all the promises and protestations made unto the Kings Majestie by the Parliament; by way of accommodation of peace. Wherein the Parliament have made knowne to the world, their owne ends and intentions; and offered to His Majestie all that a treaty can produce, or His Majestie expect: security, honour, service, obedience, support, and all other effects of an humble, loyall, and faithfull subjection.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wood.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May. 8th".</note>
+                  <note>Print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159034:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 97 -->
+            <pb facs="tcp:159034:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 98 -->
+            <pb facs="tcp:159034:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 98 -->
+            <p>A Perfect DECLARATION OF ALL THE PROMISES and PROTESTATIONS made unto the Kings Majeſtie by the Par<g ref="char:EOLhyphen"/>liament; By way of Accommodation of PEACE.</p>
+            <p>Wherein the Parliament have made knowne to the World, their owne ends and intentions; And offered to His Majeſtie all that a Treaty can produce, or His Majeſtie expect: Security, Honour, Service, <hi>Obedience, Support, and all other effects of an Humble, Loyall, and Faithfull Subjection.</hi>
+            </p>
+            <figure>
+               <head>VIRES SIT VVLNERE VERITAS</head>
+            </figure>
+            <p>LONDON, Printed for <hi>Robert Wood.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159034:3"/>
+            <!-- PDF PAGE 99 -->
+            <pb n="1" facs="tcp:159034:3"/>
+            <!-- PDF PAGE 99 -->
+            <head>A Perfect Declaration of all the Promiſes, and Pro<g ref="char:EOLhyphen"/>teſtations, made unto the Kings Majeſtie by the Parliament, by way of Accommo<g ref="char:EOLhyphen"/>dation.</head>
+            <head type="sub">Wherein the Parliament have made known to the World their own ends and intentions, and offered to His Majeſtie all that a Treaty can pro<g ref="char:EOLhyphen"/>duce, or His Majeſtie deſire.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by a Declaration of the Lords and Commons aſſembled in Parliament of the 26. of <hi>Ianuary,</hi> 1642. It is ſaid, That having taken into ſerious conſideration the preſent ſtate and condition of eminent danger, in which the Kingdome now ſtands, by reaſon of a Malig<g ref="char:EOLhyphen"/>nant Party prevailing with His Majeſtie, put<g ref="char:EOLhyphen"/>ting him upon violent and perilous wayes, and now in Armes againſt us, to the hazarding of His Majeſties perſon, and for the oppreſſion of the true Religion the Lawes and liberties of this Kingdome and the pow<g ref="char:EOLhyphen"/>er and privildges of Parliament, all which every honeſt man is bound to defend, eſpecially thoſe who have taken the late proteſtation, by which they are more perticulerly tyed unto it, and the more anſwerable before God ſhould they neglect it; wherefore they finding themſelves ingaged in the neceſſity to take up Armes likewiſe for the defence of theſe which otherwiſe muſt ſuffer and periſh, and having uſed all good waies and meanes to prevent extremities, and preſerue the peace of the Kingdome (which good endeauors of theirs, the Malignity of their Enemies have rendred altogether ſucceſſeleſſe and vain) therefore they did now thinke fitt to give this accompt unto the world to be a ſatiſfaction unto all men of the Juſtneſſe of their proceedings, and a warning unto thoſe
+<pb n="2" facs="tcp:159034:4"/>
+               <!-- PDF PAGE 100 -->who are involued in the ſame danger with them, to let them ſee the ne<g ref="char:EOLhyphen"/>ceſſity and duty which lyes upon them, to ſaue their Religion and Coun<g ref="char:EOLhyphen"/>trey, for which purpoſe they ſet forth this declaration; wherein is moſt excellently ſhewed the eminent danger of the kingdome, and how farre the malignant party hath prevailed: and in the latter end of this declara<g ref="char:EOLhyphen"/>tion, it followes in theſe words, we the Lords and Commons are reſolved to expoſe our lives and fortunes for the defence and maintenance of the true Religion the Kings perſon honour and eſtate, the power and privi<g ref="char:EOLhyphen"/>ledges of Parliament, and the iuſt rights and libertyes of the Subject, and for the prevention of that miſchievous deſign, which gives motion to all the reſt, and have beene ſo ſtrongly perſued theſe many yeares, the alter<g ref="char:EOLhyphen"/>ing of our Religion, which if God in his great mercy had not miraculouſ<g ref="char:EOLhyphen"/>ly diverted long ago, had beene brought to the condition of poore Ire<g ref="char:EOLhyphen"/>land weltering in our owne blood and confuſion, and doe here require all thoſe who have any ſence of piety, honour or commpaſſion, to help a diſtreſſed ſtate eſpecially ſuch as have taken the proteſtation, and are bound in the ſame duty with us unto their God, King and Countrey, to come in to ayd and aſſiſt this, being the true cauſe for which we raiſe an Army under the Command of the Earle of <hi>Eſſex,</hi> with whom in this cauſe we will live and die.</p>
+            <p>And after many humble Petions to his Majeſty whereby the Parlia<g ref="char:EOLhyphen"/>ment preſented their dutifull affections in aduiſing and deſireing thoſe things which they held moſt neceſſary for the preſervation of Gods true Religion, his Majeſtyes ſafety and honour and the peace of his Kingdom: By their Petition the 16 of <hi>Iuly.</hi> 1642 there be theſe words <hi>viz</hi> we doe in this our humble and loyall Petition proſterate our ſelves to your Ma<g ref="char:EOLhyphen"/>jeſtyes feet beſeeching your royall Majeſty that you would be pleaſed to forbeare anb remove all preparations and accomodtions of Warre perti<g ref="char:EOLhyphen"/>culerly the forces from about <hi>Hull</hi> from <hi>Newcaſtle Plymouth, Lincolne, Lincolneſhire,</hi> and other places, and that your Majeſty will recall the Com<g ref="char:EOLhyphen"/>miſſions of <hi>Array</hi> which are illegal, and diſmiſſe Troops and extraordina<g ref="char:EOLhyphen"/>ry gaurds by you raiſed, your Majeſty would come neere to your Parl and harken to their faithfull adviſe and humble petions which ſhall noely to the defence and advancment of Religion, your owne royall honour and ſafety, the preſervation of Our Laws and Liberties, and we have been and ſhall ever be carefull to prevent and puniſh all tumults and ſediti<g ref="char:EOLhyphen"/>ous actions ſpeeches &amp; writings, which may give your Maieſty iuſt cauſe of diſtaſte and apprehenſion of danger, from which publike ayms and re<g ref="char:EOLhyphen"/>ſolutions no ſyniſter or private reſpect ſhall ever make us to declyne &amp;c. To which if your Maieſties courſes and Councels ſhall from henceforth
+<pb n="3" facs="tcp:159034:4"/>
+               <!-- PDF PAGE 100 -->concur, wee doubt not but we ſhall quickly make it appeare to the world by the moſt eminent effects of loue and duty, that your Maieſtyes Perſonall ſafety your royall honouor and greatneſſe are much deerer to us then our owne lives and fortunes, which we doe moſt hartily dedicate and ſhal moſt willingly imploy for the ſupport and maintanance thereof.</p>
+            <p>And in a Declaration and Proteſtation of the Lords and Commons in Parliament of the 22 of <hi>October</hi> 1642 they being in theſe words; we the Lords and Commons in this preſent Parliament aſſembled doe in the preſence of Almighty God for the ſatiſfaction of our Conſences and diſ<g ref="char:EOLhyphen"/>charge of that great truſt which lyes upon us make this Proteſtation and Declaration to this Kingdom and Nation and to the whole world, That no private paſſion or reſpect no evill intention to his Maieſtyes perſon, noe deſigne to the preiudice of his iuſt honour and authority, ingaged us to raiſe forces and take up Armes againſt the authors of this Warre. wherewith the Kingdome is now inflamed: And we have allwaies deſi<g ref="char:EOLhyphen"/>red from our hearts and ſouls, manifeſted in our actions and proceedings, and in ſeverall humble Petitions and Remonſtrances to his Maieſty pro<g ref="char:EOLhyphen"/>feſſe our loyalty and obedience to his Crown, readineſſe and reſolution to defend his perſon, and ſupport his eſtate with our liues and forunes to the uttermoſt of our power, that we have beene willing to paſſe by not onely thoſe Iniuryes ignomines ſlanders and falſe accuſations wherewith we have been privatly oppreſſed and greened, but likewiſe many publike incroachments and high uſurpations to the preiudice of Religion and li<g ref="char:EOLhyphen"/>berty divers bloody trayterous practiſes and deſignes for the utter ruyne and deſtruction of the Church and ſtate, ſo as we might for the time to come beene ſecured from that wicked and malignant party, thoſe periu<g ref="char:EOLhyphen"/>rous and trayterous Councels, who have beene the authors and fomen<g ref="char:EOLhyphen"/>ters of the former miſchiefes and preſent calamities, which have and ſtill doe diſtemper the Church and ſtate.</p>
+            <p>And for divers waighty reaſons expreſſed in this Declaration and pro<g ref="char:EOLhyphen"/>teſtation, it is ſaid, we are reſolved to enter into a ſollemn oath and cove<g ref="char:EOLhyphen"/>nant with God to give up ourſelves into his hands, and that we will to the uttermoſt of our power and iudgment maintayne his truth and con<g ref="char:EOLhyphen"/>forme our ſelves to his will: That we will defend this cauſe with the hazard of our lives againſt the Kings Army, and againſt all that ſhall ioyn with them in the perſecution of this wicked deſigne, according to the forme to be agreed upon by both houſes of Parliament to be ſubſcribed by our hands, and that we will for the ſame ends aſſociate ourſelves, and unite with all the well affected in the City of <hi>London</hi> and other parts of of his Majeſtiie dominions, &amp;c. and we doubt not but the God of truth and the great protector of his people, will aſſiſt and inable us in this our iuſt defence, to reſtraine the malice and fury of thoſe that ſeek our ruyne
+<pb n="4" facs="tcp:159034:5"/>
+               <!-- PDF PAGE 101 -->and to ſecure the perſons, eſtates and liberties, of all that ioyn with us and to procure and eſtabliſh the ſafety of Religion and fruition of our Lawes and liberties in this and all other his Majeſties dominions, which we do here againe profeſſe before the everliving God, to be the cheife end of all our Councels and reſolutions, without any intention or deſire to hurt or iniure his Majeſty either in his perſon or power.</p>
+            <p>And in the Parliaments humble anſwere to his Majeſties meſſage of 11 of <hi>September</hi> 1642 page 2. are th<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> words: Neither had your Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>jeſty cauſe to complaine that you are denied a Treaty, when we offer all that a treaty could produce or your Maieſty expect ſecurely, honour, ſer<g ref="char:EOLhyphen"/>vice obedience ſupport and all other effects or an humble loyal and faith<g ref="char:EOLhyphen"/>full ſubiection and ſeek nothing but that Religion, liberty, peace of the Kingdom, and ſafety of the Par<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may be ſecured from the open violence and cuning practices or a wicke party, who have long plotted our ruyne and diſtruction &amp;c. And after divers other things contayned in that meſſage they conclude thus: all this notwithſtanding, as we never gave your Majeſty any iuſt cauſe of withdrawing your ſelfe from your great Counſell, ſo it hath ever beene and ſhall ever be farr from vs to give any impediment to your returne, or to neglect any proper meanes of curing the diſtempers of the Kingdome, and <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſing the dangerous breaches be<g ref="char:EOLhyphen"/>twixt your Majeſty and the Parliament according to the great truſt which lyes upon us; and your Majeſty ſhal now be pleaſed to come back to your Parliament without your forces, we ſhalbe ready to ſecure your royall perſon Crown and dignity, with our lives and fortunes your preſence in this great Covncell being the onely meanes of any treaty betwixt your Maieſty and them, with hope of ſucceſſe.</p>
+            <p>And in none of our deſires to your Maieſty ſhall we be ſwayed by any perticuler mans advantage, but ſhall give a cleere teſtimony to your Maieſty and the the whole world that in all things done by us wee faithfully intend the good of your Maieſty, and of your Kingdoms, and we will not be diverted from this end by any private or ſelfe reſpects whatſoever.</p>
+            <p>So by whot hath beene already gathered it doth moſt cleerely ap<g ref="char:EOLhyphen"/>peares (not to degreſſe feom their owne words in that Declaration of the 26 of <hi>Iuly</hi> 1642) that all this while the two houſes of Parliament have with all duty and loyalty ſtill applyed themſelves unto his Maieſty and laboured by humble prayers and cleere convinceing reaſons and ar<g ref="char:EOLhyphen"/>guments
+<pb n="5" facs="tcp:159034:5"/>
+               <!-- PDF PAGE 101 -->in ſeverall perticulers to ſatiſfie him of their intentions, the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>neſſe of their proceedings, their deſire of the ſafety of his royall perſon, and the peace of the Kingdome, and l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kewiſe (as hath beene declared in ſome ſpeeches) that if his Maieſty would be gratiouſly pleaſed to apply himſelfe to the faithfull advice of his Parliament, they would make him the greateſt King that ever ſwayed ſcepter in this Kingdome; There<g ref="char:EOLhyphen"/>fore (in my opinion) I conceive it not amiſſe that the Kingdome ſhould once more be put in minde of ſome part of the Declaration or the 15 of <hi>October</hi> 1643 in theſe words: That it be comended to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ious conſideration of thoſe in the Kings Army and of a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o her that inc<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd to aſſiſt and ſerve his Maieſty in this unp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> War, (amongſt whom it may be hoped there a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> men and I con<g ref="char:EOLhyphen"/>teſtants) what it is that moves them in this quarrell? Is it for fear or ſome Innouations and alterations of Religion or Church gouerment let ſuch as are poſſeſt with his vaine and cauſe eſſe apprehenſion know, that no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thing is intended or deſired but to take away the Gouerment <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y Biſhops which hath beene ſo conſtantly evidently miſche<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and dangerou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the Church and ſtate, and ſuch other thing as ſhall be found to be <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y offenſive and nothing to be ſettled and introduced but by authority of Parliament, after a conſultation firſt had with an aſſembly of Learned and reverent Divines.</p>
+            <p>Is it to uphold the authority prerogative and honour of the King and ſafety of his royall Perſon? Surely the Parliament is and ever hath beene ready to doe any thing that belongs to them to ſecure all thoſe, which they have often teſtyfied by many hemble Petitions to his Maieſty.</p>
+            <p>If there can be no cauſe for any of theſe reſpects to ſeeke the deſtru<g ref="char:EOLhyphen"/>ction of the Parliament, and the bloud and ruine of their kindred and friends and acquaintance what <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to be the matter of quarrell and the motiues of ſuch great <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and the effects and conſe<g ref="char:EOLhyphen"/>quence of their victory<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> if they ſhould prevayl? that prieſts Ieſuits and the <hi>Popes</hi> Nunticioes may, do<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ere and govern in the Kings Counſell as heretofore, that the A<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> York &amp; their Suffragants may ſuppreſſe dilligent a<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and baniſh and oppreſſe all the moſt pious and beſt <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the Kingdome, and intro<g ref="char:EOLhyphen"/>duce the Romiſh Religion <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> profeſſion, till they have ſtrength and boldnes to caſt off <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and openly apear that which indeed they are, and would not <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to be.</p>
+            <pb n="6" facs="tcp:159034:6"/>
+            <!-- PDF PAGE 102 -->
+            <p>That the Earle of <hi>Briſtoll</hi> and his ſonne the Lord <hi>Digby, Mr. Ger<g ref="char:EOLhyphen"/>mine</hi> and other ſuch Traytors, may poſſeſſe the great places of gouerment of this Kingdom, and be the Arbitrers of preferments and diſgraces to ſuch as ſhall further or oppoſe their deſignes that the Delinquants oppoſers and dsſtroyers of the Kingdome, may not onely eſcape the Iuſtice of the Parliament but Tryumph in the ſopyles of all honeſt and good patriots and that through our troubles and diviſions, the Rebels in Jreland may prevaile, that we may ceaſe to be free Nation, and become the obiect of cruelty and oprpeſſion at home, and ſcorne and infame abroade.</p>
+            <p>If there can be no other fruite of their hazard and indeavor on that ſide, let them then coſinder whether by adhering to the parliament they may not expect effects more ſuitable to the deſires of honeſt men, the glory of God in the preſervation of his truth the peace of the Church, by ſecuring it againſt the pride ambition of the Clargy, the greatneſſe and ſecurity of the King by freeing him from falſe and Trayterous Councels, and eſtabliſh him in the hearts and affections of his people, the proſperi<g ref="char:EOLhyphen"/>ty of the whole Kingdom, by the bleſſing of good Lawes and righteous goverment.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
